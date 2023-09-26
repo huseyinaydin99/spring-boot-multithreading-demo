@@ -1,2 +1,1 @@
-# springboot-multithreading-example
-## Spring Boot ile Çoklu Kanal Uygulaması Demosu.!
+### spring-boot-multithreading-example
